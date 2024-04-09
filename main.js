@@ -18,3 +18,9 @@ window.onscroll = function(){
     btnMenu.classList.remove('fa-times')
     Menu.classList.remove('active')
 }
+
+// let icon = document.querySelector(".icon");
+
+// icon.addEventListener("click", () => {
+//     icon.links("https://github.com/abdelrhmanmosa?tab=repositories")
+// })

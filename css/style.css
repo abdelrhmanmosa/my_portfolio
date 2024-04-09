@@ -337,46 +337,6 @@ header nav .nav-links a.active {
     cursor: pointer;
 }
 
-/* footer */
-
-footer {
-    background: #1c1e22;
-    padding: 25px 0;
-}
-
-footer .social {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-footer .social i {
-    font-size: 20px;
-    color: #fff;
-    margin: 0 10px;
-    cursor: pointer;
-    transition: all 0.4s ease;
-}
-
-footer .social i p {
-    color: #e4e4e4;
-    display: inline-block;
-    font-size: 12px;
-    margin: 0 10px;
-    display: none;
-
-}
-
-footer .social i:hover {
-    color: #ffaa17;
-
-}
-
-footer .social i:hover p {
-    display: inline-block;
-}
-
-
 /* Media */
 
 @media(max-width:1200px) {
